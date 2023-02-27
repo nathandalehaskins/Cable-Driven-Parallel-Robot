@@ -1,8 +1,8 @@
 # Cable-Driven-Parallel-Robot
-Program to control a Cable Driven Parallel Robot.
+Program to control a Cable Driven Parallel Robot using AccelStepper library and interfacing through Arduino Serial monitor.
 Basic functionality of the program:
 
-- Firstly, prompts user for the current position of end effector e.g. (100,100,0) in mm.
+- Firstly, prompts user for the current position of end effector on the serial monitor e.g. (100,100,0) in mm.
 - Secondly, prompts user for next position of end effector e.g. (200,300,100) in mm.
 - End effector moves to position.
 - Prompts user for new position.
